@@ -22,15 +22,9 @@
     font-size:70px;
     color:#f3ad4d
 }
-#top-banner-height{
-    height:900px;
-}
 #banner-button{
         background-color: rgb(9, 9, 49);
 }
-/*#middle-section-box-radius{
-    border-radius: 55px!important;
-}*/
 .middle-icons img{
 
         width: 70px;
@@ -45,7 +39,6 @@
 }
 .middle-icons{
   width:500px!important;
-  
     
 }
 .middle-icons h3,p{
